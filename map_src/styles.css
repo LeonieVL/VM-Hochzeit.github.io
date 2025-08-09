@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+
+#map {
+background-color: #ffffff;
+  position: relative;
+  margin: 0 auto;
+  height: 350px;
+  width: calc(100% - 4rem);
+  max-width: 72rem;
+  z-index: 2;
+}
+
+
+

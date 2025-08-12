@@ -29,15 +29,6 @@ var marker = L.marker([50.1271650003165, 8.4633358105422], {icon: iconMarker}).a
 
 var marker = L.marker([50.147029217018165, 8.499967857671821], {icon: iconMarker}).addTo(map).bindPopup('<a href="https://www.h-hotels.com/">H-Hotel Bad Soden</a>').openPopup();
 
-var marker = L.marker([50.117468118723444, 8.470456859867816], {icon: iconParty}).addTo(map).bindPopup('Die Feier beginnt um 17.00 Uhr im Holzapfel.').openPopup();
+var marker = L.marker([50.117468118723444, 8.470456859867816], {icon: iconParty}).addTo(map).bindPopup('Die Feier beginnt um 15.00 Uhr im Holzapfel.').openPopup();
 
 //var marker = L.marker([50.1271650003165, 8.4633358105422], {icon: iconMarker}).addTo(map).bindPopup('<a href="https://www.zumgoldenenloewen.de/">Zum goldenen Löwen</a>').openPopup();
-
-
-//Wedding website RSVP
-//https://www.youtube.com/watch?v=E4VM6M8WDHE
-
-//add dietary requirements
-
-//https://codepen.io/fkkcloud/pen/rKyNQL
-//https://formbold.com/templates/rsvp-form
